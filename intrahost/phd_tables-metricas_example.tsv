@@ -1,0 +1,5 @@
+amostra	codigo_gisaid	lineage_org	lineage_up_major	lineage_up_minor	iSNVs	change_lineage	coinfection	last_up	collection_date		UF	estado	Município	Genero	idade	depth_sub	cob_sub	depth_iSNV	cob_iSNV	data-seq	primers	run
+IAM08	EPI_ISL_500460	B.1.1	B.1.1.117	B.1.1.117	2	FALSE	FALSE	25/11/2021	2020-04-07		PE	Pernambuco	Recife	Feminino		2959,48	99,48	1974,53	99,36461225	18/05/2020		
+IAM10	EPI_ISL_500461	B.1.1	B.1.1	na	0	FALSE	FALSE	25/11/2021	2020-04-07		PE	Pernambuco	Recife	Feminino		2890,23	99,54	1944,61	99,42815102	18/05/2020		
+IAM16	EPI_ISL_500865	B.1.1	B.1.1	B.1.1	1	FALSE	FALSE	25/11/2021	2020-04-07		PE	Pernambuco	Recife	Masculino		1520,13	95,36	1064,62	94,86004749	18/05/2020		
+IAM17	EPI_ISL_500866	B.1.1	B.1.1	na	0	FALSE	FALSE	25/11/2021	2020-04-07		PE	Pernambuco	Recife	Feminino		3118,75	96,93	2164,31	96,03384276	18/05/2020		

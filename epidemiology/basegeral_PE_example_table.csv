@@ -1,0 +1,5 @@
+"dt_notificacao";"Sexo";"raca";"municipio";"dt_primeiros_sintomas";"sintomas";"comorbidades";"hospitalizacao";"classe";"Resultado";"evolucao";"dt_obito";"cd_municipio";"prof_saude";"faixa_etaria";"tipo"
+2020-04-23;"FEMININO";"";"RECIFE";2020-04-13;"FEBRE  DOR DE GARGANTA  CEFALEIA PERDA DE OLFATO E PALADAR";"";"NAO";"EM INVESTIGACAO";"AGUARDANDO RESULTADO";"EM TRATAMENTO DOMICILIAR";NA;261160;"";"20-29 anos";"grave"
+2020-04-20;"FEMININO";"";"RECIFE";2020-03-06;"DOR DE GARGANTA FEBRE";"NULL";"";"EM INVESTIGACAO";"";"";NA;261160;"";"30-39 anos";"leve"
+2020-04-23;"FEMININO";"";"RECIFE";2020-04-18;"DOR DE GARGANTA OUTROS";"NULL";"";"EM INVESTIGACAO";"";"";NA;261160;"";"60-69 anos";"leve"
+2020-04-23;"MASCULINO";"";"RECIFE";2020-04-20;"FEBRE TOSSE";"NULL";"";"EM INVESTIGACAO";"";"";NA;261160;"";"30-39 anos";"leve"
